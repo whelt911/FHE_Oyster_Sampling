@@ -2,10 +2,10 @@
 Oysters are sampled annually by quadrat sampling.
 
 Currently the dataset contains 2 monitoring events:
-<li>
+
 <ol>Spring 2016 - to quantify overwinter mortality</ol>
 <ol>Fall 2016 - annual monitoring</ol>
-</li>
+
 
 ## Purpose
 
